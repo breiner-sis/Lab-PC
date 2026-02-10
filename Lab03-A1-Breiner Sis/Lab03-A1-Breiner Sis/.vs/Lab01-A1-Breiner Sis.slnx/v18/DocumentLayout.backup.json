@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Obedc\\OneDrive\\Documentos\\02_URL\\1er Semestre\\05_Pensamiento Computacional (Pr\u00E1ctica)\\00_Tareas\\01_GitHub\\Lab-PC\\Lab01-A1-Breiner Sis\\Lab01-A1-Breiner Sis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82A4C224-5353-4EA4-9E67-2A0A5A0B4771}|Lab01-A1-Breiner Sis.csproj|c:\\users\\obedc\\onedrive\\documentos\\02_url\\1er semestre\\05_pensamiento computacional (pr\u00E1ctica)\\00_tareas\\01_github\\lab-pc\\lab01-a1-breiner sis\\lab01-a1-breiner sis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A4C224-5353-4EA4-9E67-2A0A5A0B4771}|Lab01-A1-Breiner Sis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Obedc\\OneDrive\\Documentos\\02_URL\\1er Semestre\\05_Pensamiento Computacional (Pr\u00E1ctica)\\00_Tareas\\01_GitHub\\Lab-PC\\Lab01-A1-Breiner Sis\\Lab01-A1-Breiner Sis\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Obedc\\OneDrive\\Documentos\\02_URL\\1er Semestre\\05_Pensamiento Computacional (Pr\u00E1ctica)\\00_Tareas\\01_GitHub\\Lab-PC\\Lab01-A1-Breiner Sis\\Lab01-A1-Breiner Sis\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:51:02.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
