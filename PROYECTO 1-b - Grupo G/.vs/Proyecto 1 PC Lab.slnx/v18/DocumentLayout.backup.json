@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Obedc\\OneDrive\\Documentos\\02_URL\\1er Semestre\\05_Pensamiento Computacional (Pr\u00E1ctica)\\00_Tareas\\01_GitHub\\Lab-PC\\Proyecto 1 PC Lab\\",
+  "WorkspaceRootPath": "C:\\Users\\Obedc\\OneDrive\\Documentos\\02_URL\\1er Semestre\\05_Pensamiento Computacional (Pr\u00E1ctica)\\00_Tareas\\01_GitHub\\Lab-PC\\PROYECTO 1-b - Grupo G\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DF07DB1-5A19-4369-AE66-0BA229CF1737}|Proyecto 1 PC Lab.csproj|c:\\users\\obedc\\onedrive\\documentos\\02_url\\1er semestre\\05_pensamiento computacional (pr\u00E1ctica)\\00_tareas\\01_github\\lab-pc\\proyecto 1 pc lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DF07DB1-5A19-4369-AE66-0BA229CF1737}|Proyecto 1 PC Lab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD2DB99C-9A1A-A091-1D7A-41D0AE65C32B}|Proyecto 1 PC Lab.csproj|c:\\users\\obedc\\onedrive\\documentos\\02_url\\1er semestre\\05_pensamiento computacional (pr\u00E1ctica)\\00_tareas\\01_github\\lab-pc\\proyecto 1-b - grupo g\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2DB99C-9A1A-A091-1D7A-41D0AE65C32B}|Proyecto 1 PC Lab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Obedc\\OneDrive\\Documentos\\02_URL\\1er Semestre\\05_Pensamiento Computacional (Pr\u00E1ctica)\\00_Tareas\\01_GitHub\\Lab-PC\\Proyecto 1 PC Lab\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Obedc\\OneDrive\\Documentos\\02_URL\\1er Semestre\\05_Pensamiento Computacional (Pr\u00E1ctica)\\00_Tareas\\01_GitHub\\Lab-PC\\PROYECTO 1-b - Grupo G\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Obedc\\OneDrive\\Documentos\\02_URL\\1er Semestre\\05_Pensamiento Computacional (Pr\u00E1ctica)\\00_Tareas\\01_GitHub\\Lab-PC\\Proyecto 1 PC Lab\\Program.cs",
+              "ToolTip": "C:\\Users\\Obedc\\OneDrive\\Documentos\\02_URL\\1er Semestre\\05_Pensamiento Computacional (Pr\u00E1ctica)\\00_Tareas\\01_GitHub\\Lab-PC\\PROYECTO 1-b - Grupo G\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAIwJ4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwEIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T02:49:35.084Z",
               "EditorCaption": ""
